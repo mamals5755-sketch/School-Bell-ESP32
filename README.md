@@ -12,7 +12,12 @@
 
 ⚙️Подключение
 
-<img width="3000" height="1369" alt="circuit_image" src="https://github.com/user-attachments/assets/cc7c8553-9785-4f2d-8f7d-10750addde4a" />
+<img width="1822" height="550" alt="scheme" src="https://github.com/user-attachments/assets/19fbc79d-0c50-4bc7-8f1c-026caa85fe45" />
+
+Основные пины:
+* Реле: GPIO 3
+* RTC SDA: GPIO 8
+* RTC SCL: GPIO 9
 
 🛠 Железо
 - ESP32 C3 Super Mini
